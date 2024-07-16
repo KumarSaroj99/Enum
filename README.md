@@ -1,0 +1,2 @@
+# Enum
+POC on Enums
